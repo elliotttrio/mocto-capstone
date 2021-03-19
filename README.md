@@ -1,1 +1,1 @@
-# mocto-capstone
+# MOCTO Capstone
